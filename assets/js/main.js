@@ -16,7 +16,7 @@ setInterval(function() {
   
   // Mostrar el nuevo iframe
   iframes[currentIframe].style.display = 'block';
-}, 45000);//Cada minuto
+}, 60000);//Cada minuto
 
 // // Función para actualizar el contenido de los iframes con AJAX cada 5 minutos
 // setInterval(function() {
